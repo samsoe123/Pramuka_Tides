@@ -10,7 +10,7 @@ Beberapa keterangan yang diperlukan sebelum menggunakan data sebagai berikut:
 - **Kedalaman (m)**: Tinggi permukaan laut perlu diperhitungkan dari benchmark di Pulau Pramuka karena data yang diambil merupakan data kedalaman pada titik pengukuran.
 - **Interval data**: Time step pengambilan data selama 15 menit.
 - **Lokasi**: 5°44'45.99"S, 106°36'42.71"E di Pulau Pramuka
-- **Tipe Pasut**: Terjadi spring tide di sekitar pertengahan pengambilan data.
+- **Tipe Pasut**: Terjadi spring tide pada pertengahan data.
 
 ## Sumber Data
 Data pasut ini diperoleh dari:
