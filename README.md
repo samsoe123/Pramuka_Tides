@@ -13,7 +13,7 @@ Beberapa keterangan yang diperlukan sebelum menggunakan data sebagai berikut:
 
 ## Sumber Data
 Data pasut ini diperoleh dari:
-**Stasiun Pengamatan**: Menggunakan alat pengukur pasang surut, yaitu tide gauge.
+- **Stasiun Pengamatan**: Menggunakan alat pengukur pasang surut, yaitu tide gauge.
 
 ## Format File
 Data pasang surut disimpan dalam format `.txt`.
